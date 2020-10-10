@@ -2,6 +2,6 @@ Nombre:Carrillo Pascual Venancio
 Edad: 19 años
 Juegos actuales:Rabbids Coding
 Juegos favoritos: GTA
-Carrera:
-Materia: 
-Semestre
+Carrera:Ingeniería Geológica
+Materia: Fundamentos de Programación
+Semestre: 3er semestre
