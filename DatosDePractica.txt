@@ -6,3 +6,4 @@ Carrera:Ingeniería Geológica
 Materia: Fundamentos de Programación
 Semestre: 3er semestre
 Escuela: Facultad de Ingeniería 
+Bebida favorita: CocaCola
